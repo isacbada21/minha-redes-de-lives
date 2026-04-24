@@ -72,7 +72,7 @@ export default function App() {
           <iframe
             width="100"
             height="100"
-            src={`https://www.youtube.com/embed/e4ip1JHlW0Y?autoplay=1&mute=${isPlaying ? 0 : 1}&loop=1&playlist=e4ip1JHlW0Y&enablejsapi=1`}
+            src={`https://www.youtube.com/embed/e4ip1JHlW0Y?autoplay=1&mute=${isPlaying ? 0 : 1}&loop=1&playlist=e4ip1JHlW0Y&enablejsapi=1&start=5`}
             title="Background Music"
             allow="autoplay"
           ></iframe>
